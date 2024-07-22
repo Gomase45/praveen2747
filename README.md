@@ -1,1 +1,12 @@
-# praveen2747
+<!DOC TYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Day-4</title>
+    </head>
+    <!---
+    <body>
+      <h1>Attribute</h1> 
+       ṇ<p> the attribute gives the additional information about the element</p>
+    </body>-->   
+</html>
